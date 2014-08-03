@@ -16,7 +16,7 @@ to find optimum seam order, add image enlarging and object removing.
 
 2.Result
 ==========================================================================================================================
-> Original
+  Original
 ![Original](https://github.com/tpys/seam-carving/raw/master/bench.png)
 ![Vertical Seam Carving](https://github.com/tpys/seam-carving/raw/master/-v.png)
 ![Horizontal Seam Carving](https://github.com/tpys/seam-carving/raw/master/-h.png)
