@@ -6,10 +6,10 @@ Seam carving is a content aware image retarget technology, it can do 4 main job:
 amplification and object removing. the main idea is to find an optimum seam bease some pixel energy fucntion.
 
 In this project I implement some basic algorithm, they are:
-  .vertical seam carving
-  .horizontal seam carving
-  .mannuly order seam carving
-  .content amplification
+  a)vertical seam carving
+  b)horizontal seam carving
+  c)mannuly order seam carving
+  d)content amplification
   
 I wish somebody, andybody could make some improvement. such as using forward enery to reduce artificial, dynamic programming
 to find optimum seam order, add image enlarging and object removing.
