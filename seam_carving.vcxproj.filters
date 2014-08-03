@@ -13,6 +13,9 @@
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
+    <Filter Include="result">
+      <UniqueIdentifier>{5d53d322-5701-4a35-8f94-5e4b8cc049bc}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="dynamic.cpp">
@@ -26,5 +29,22 @@
     <ClInclude Include="dynamic.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="-a.png">
+      <Filter>result</Filter>
+    </Image>
+    <Image Include="-b.png">
+      <Filter>result</Filter>
+    </Image>
+    <Image Include="bench.png">
+      <Filter>result</Filter>
+    </Image>
+    <Image Include="-h.png">
+      <Filter>result</Filter>
+    </Image>
+    <Image Include="-v.png">
+      <Filter>result</Filter>
+    </Image>
   </ItemGroup>
 </Project>

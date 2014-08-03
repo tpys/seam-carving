@@ -90,6 +90,13 @@
   <ItemGroup>
     <ClInclude Include="dynamic.h" />
   </ItemGroup>
+  <ItemGroup>
+    <Image Include="-a.png" />
+    <Image Include="-b.png" />
+    <Image Include="-h.png" />
+    <Image Include="-v.png" />
+    <Image Include="bench.png" />
+  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>
