@@ -16,11 +16,12 @@ to find optimum seam order, add image enlarging and object removing.
 
 2.Result
 ==========================================================================================================================
- vertical seam carving
- horizontal seam carving
- mannuly order seam carving
- content amplification
- 
+![Original](http://github.com/tpys/seam-carving/raw/master/bench.png)
+![Vertical Seam Carving](http://github.com/tpys/seam-carving/raw/master/-v.png)
+![Horizontal Seam Carving](http://github.com/tpys/seam-carving/raw/master/-h.png)
+![Mannuly Order Seam Carving](http://github.com/tpys/seam-carving/raw/master/-b.png)
+![Content Amplification](http://github.com/tpys/seam-carving/raw/master/-a.png)
+
 3.Issue
 ==========================================================================================================================
 When reduce image too much, more than 50% it's original size, some artificial occur. 
