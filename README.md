@@ -1,7 +1,7 @@
 Seam Carving
 ============
 1.Introduction
-==========================================================================================================================
+---------------
 Seam carving is a content aware image retarget technology, it can do 4 main job: changing aspect ratio, enlarging, content
 amplification and object removing. the main idea is to find an optimum seam bease some pixel energy fucntion.
 
@@ -15,7 +15,7 @@ I wish somebody, andybody could make some improvement. such as using forward ene
 to find optimum seam order, add image enlarging and object removing.
 
 2.Result
-==========================================================================================================================
+----------
  Original <br>
 ![ Original ](https://github.com/tpys/seam-carving/raw/master/bench.png) <br>
  Vertical Seam Carving <br>
