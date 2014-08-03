@@ -15,7 +15,8 @@ I wish somebody, andybody could make some improvement. such as using forward ene
 to find optimum seam order, add image enlarging and object removing.
 
 2.Result
-==========================================================================================================================   Original\<br>
+==========================================================================================================================
+ Original\<br>
 ![ Original ](https://github.com/tpys/seam-carving/raw/master/bench.png)
 ### Vertical Seam Carving
 ![Vertical Seam Carving](https://github.com/tpys/seam-carving/raw/master/-v.png)
