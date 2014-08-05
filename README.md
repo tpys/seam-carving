@@ -10,7 +10,9 @@ In this project I implement some basic algorithm, they are:
 * horizontal seam carving
 * mannuly order seam carving
 * content amplification
-  
+
+Platform: vs2013 opencv2.4.8 c++11
+
 I wish somebody, andybody could make some improvement. such as using forward enery to reduce artificial, dynamic programming
 to find optimum seam order, add image enlarging and object removing.
 
